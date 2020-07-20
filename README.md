@@ -9,6 +9,7 @@ Es necesario instalar Bokeh : pip install bokeh
 Repositorio: https://pypi.org/project/bokeh/ 
 
 Ultimo Test:
+	Resultado: https://python-analtycs-result.azurewebsites.net/
 	Tiro de dados: 1
 	Simulaciones: 300000
 	Duracion en ejecucion: 50 minutos
