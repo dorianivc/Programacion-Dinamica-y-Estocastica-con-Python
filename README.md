@@ -32,7 +32,7 @@ Ultimo Test:
 							Tamaño: 8192 MBytes ("8GB")
 							Ancho de banda máximo: PC3-14200 (889 MHz)
 Regresion Lineal:
-
+ 
 Creado en Colaboratory by Google
 https://github.com/dorianivc/Programacion-Dinamica-y-Estocastica-con-Python/blob/master/Regresion_Lineal.ipynb
 
