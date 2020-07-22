@@ -2,7 +2,7 @@
 
 	Aca una serie de scripts de estos estilos de programacion, usando Python
 	
-#Simulacion de Probabilidades de un Dado:
+Simulacion de Probabilidades de un Dado:
 
 Es necesario instalar Bokeh : pip install bokeh
 
@@ -19,7 +19,7 @@ Ultimo Test:
 							Tipo: DDR3
 							Tamaño: 8192 MBytes ("8GB")
 							Ancho de banda máximo: PC3-14200 (889 MHz)
-#Simulacion de Barajas:
+Simulacion de Barajas:
 Ultimo Test:
 	Resultado: https://python-analtycs-result.azurewebsites.net/prob_5.html
 	Barajas de la mano: 5
@@ -31,9 +31,9 @@ Ultimo Test:
 							Tipo: DDR3
 							Tamaño: 8192 MBytes ("8GB")
 							Ancho de banda máximo: PC3-14200 (889 MHz)
-#Regresion Lineal
+Regresion Lineal:
 
-Creado en Colaboratory
+Creado en Colaboratory by Google
 https://github.com/dorianivc/Programacion-Dinamica-y-Estocastica-con-Python/blob/master/Regresion_Lineal.ipynb
 
 
